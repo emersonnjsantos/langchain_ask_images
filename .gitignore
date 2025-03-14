@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Ignorar ambiente virtual
+venv/
+
+# Ignorar arquivo de variáveis de ambiente
+.env
+
